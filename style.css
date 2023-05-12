@@ -1,0 +1,22 @@
+body{
+    background-color: #AFD3E2;
+}
+
+#container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#team-member{
+    padding: 3vw 5vw;
+    margin: 3vw;
+    line-height: 2;
+    background-color: #B04759;
+    color: white;
+    border-radius: 5px;
+    border: 5px solid darkslategray;
+}
+
+li{
+    list-style: none;
+}
